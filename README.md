@@ -9,12 +9,42 @@ here i have made an simple weather prediction project using API which gives the 
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1bCzQgORCLF2DgBRfrfIOjqkNZ53R7k4A/view?usp=share_link](https://drive.google.com/file/d/1bCzQgORCLF2DgBRfrfIOjqkNZ53R7k4A/view?usp=share_link)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ayuyadav1804@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayuyadav1804@gmail.com" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayuyadav1804@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayuyadav1804@gmail.com" height="30" width="40" /></a>
-</p>
+# Weather Prediction Project
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## Description
+
+This project predicts the temperature for the next day using machine learning. The goal of the project is to build a model that can accurately predict the temperature for a given day based on historical weather data.
+
+## Dataset
+
+The dataset used in this project is the Global Historical Climatology Network (GHCN) Daily dataset, which can be downloaded from the National Oceanic and Atmospheric Administration (NOAA) website at https://www.ncei.noaa.gov/data/global-historical-climatology-network-daily/access/. The dataset contains daily temperature readings for various weather stations around the world.
+
+## Requirements
+
+- Python 3.x
+- Jupyter Notebook
+- Pandas
+- Scikit-learn
+- Matplotlib
+
+## Installation
+
+1. Clone the repository: `git clone https://github.com/username/repo.git`
+2. Navigate to the project directory: `cd repo`
+3. Install the required packages: `pip install -r requirements.txt`
+
+## Usage
+
+1. Open the `WeatherPrediction.ipynb` notebook in Jupyter Notebook.
+2. Follow the steps outlined in the notebook to preprocess the data, train and test the weather prediction model.
+3. To use the trained model to predict the temperature for a new day, run the `predict_weather.py` script with the desired date as an argument. For example, `python predict_weather.py 2023-03-18`.
+
+## Credits
+
+This project was created by John Doe as part of the Data Science course at XYZ University. The weather prediction model was built using the Scikit-learn library.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 

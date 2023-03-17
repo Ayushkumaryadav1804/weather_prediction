@@ -1,7 +1,7 @@
 # weather_prediction
 here i have made an simple weather prediction project using API which gives the necessary information of any country you need just input it 
 <h1 align="center">Hi 👋, I'm Ayush Yadav</h1>
-<h3 align="center">A Aspiring Data Science entusiast from India</h3>
+<h3 align="center">An Aspiring Data Science entusiast from India</h3>
 
 - 🔭 I’m currently working on **Sentiments Analysis**
 

@@ -3,7 +3,7 @@ here i have made an simple weather prediction project using API which gives the 
 <h1 align="center">Hi 👋, I'm Ayush Yadav</h1>
 <h3 align="center">An Aspiring Data Science entusiast from India</h3>
 
-- 🔭 I’m currently working on **Sentiments Analysis**
+- 🔭 I’m currently working on **Weather Analysis**
 
 - 📫 How to reach me **ayuyadav1804@gmail.com**
 
